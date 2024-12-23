@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/saptaparneechaudhuri/space-frontend-mentor]
+- Solution URL: [https://github.com/Kikiabdilah/space-frontend-mentor]
 - Live Site URL: [https://imaginative-unicorn-7299b2.netlify.app/]
 
 ## My process
@@ -49,4 +49,5 @@ Users should be able to:
 - CSS Grid
 - Desktop-first workflow
 - [React](https://reactjs.org/) - JS library
+# space-frontend-mentor
 # space-frontend-mentor
